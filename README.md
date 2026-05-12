@@ -10,6 +10,8 @@ A learning repository for JavaScript basics and identifier rules.
   - JavaScript concepts including identifier rules, naming conventions, and comments.
 - `chapter_03_Identifier_Literals/`
   - Additional resources, including VS Code keyboard shortcuts.
+- `chapter_04_javascript_concepts/`
+  - JavaScript concepts such as variable scope, hoisting, and function behavior.
 
 ## Files added recently
 
@@ -18,6 +20,7 @@ A learning repository for JavaScript basics and identifier rules.
 - `chapter_02_js_concepts/07_Identifier_RulesPart2.js`
 - `chapter_02_js_concepts/08_Comments.js`
 - `chapter_03_Identifier_Literals/VS_Code_KeyboardShortcuts.md`
+- `chapter_04_javascript_concepts/17_hoisting_fn.js`
 
 ## Usage
 
