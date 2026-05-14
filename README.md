@@ -12,6 +12,8 @@ A learning repository for JavaScript basics and identifier rules.
   - Additional resources, including VS Code keyboard shortcuts.
 - `chapter_04_javascript_concepts/`
   - JavaScript concepts such as variable scope, hoisting, and function behavior.
+- `chapter_05_literal/`
+  - Literal examples covering numbers, strings, null/undefined, and template literals.
 
 ## Files added recently
 
@@ -20,7 +22,18 @@ A learning repository for JavaScript basics and identifier rules.
 - `chapter_02_js_concepts/07_Identifier_RulesPart2.js`
 - `chapter_02_js_concepts/08_Comments.js`
 - `chapter_03_Identifier_Literals/VS_Code_KeyboardShortcuts.md`
+- `chapter_04_javascript_concepts/09_var_let_cons.js`
+- `chapter_04_javascript_concepts/10_function.js`
+- `chapter_04_javascript_concepts/10_var_explained.js`
+- `chapter_04_javascript_concepts/12_let_people_love.js`
+- `chapter_04_javascript_concepts/13_constant.js`
+- `chapter_04_javascript_concepts/14_var_function_scope.js`
+- `chapter_04_javascript_concepts/15_let_scope.js`
+- `chapter_04_javascript_concepts/16_hoisting.js`
 - `chapter_04_javascript_concepts/17_hoisting_fn.js`
+- `chapter_05_literal/23_null_undefined.js`
+- `chapter_05_literal/26_literal_number_all.js`
+- `chapter_05_literal/29_backtick_single_double.js`
 
 ## Usage
 
