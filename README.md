@@ -34,6 +34,10 @@ A learning repository for JavaScript basics and identifier rules.
 - `chapter_05_literal/23_null_undefined.js`
 - `chapter_05_literal/26_literal_number_all.js`
 - `chapter_05_literal/29_backtick_single_double.js`
+- `chapter_06_doub_tripple_equal/41_ternary_op.js`
+- `chapter_06_doub_tripple_equal/42_type_op.js`
+- `chapter_06_doub_tripple_equal/43_incre_decrement_op.js`
+- `chapter_06_doub_tripple_equal/44_null_op.js`
 
 ## Usage
 
